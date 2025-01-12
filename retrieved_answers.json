@@ -1,0 +1,30 @@
+{
+  "query": "What is yoga?",
+  "retrieved_answers": [
+    {
+      "question": "What is the definition of Yoga? What is Yoga?",
+      "answer": "Endowed with wisdom and evenness of mind, one casts off in this life both good and evil deeds; therefore, devote yourself to Yoga; Yoga is skill in action.",
+      "distance": 0.21101580560207367
+    },
+    {
+      "question": "What kind of person can attain Yoga?",
+      "answer": "I think Yoga is hard to be attained by one with an uncontrolled self, but the self-controlled and striving one can attain it by the appropriate means.",
+      "distance": 0.5292942523956299
+    },
+    {
+      "question": "How did the knowledge of Yoga get lost?",
+      "answer": "This, handed down in regular succession by the royal sages, was known. This Yoga, however, has been lost here over time, O Parantapa (burner of the foes).",
+      "distance": 0.5577410459518433
+    },
+    {
+      "question": "What is the path in time followed by those who attain Yoga?",
+      "answer": "Fire, light, daytime, the bright fortnight, the six months of the northern path of the sun (the northern solstice) departing, then men who know Brahman go to Brahman.",
+      "distance": 0.5679128170013428
+    },
+    {
+      "question": "what happens when the mind is controlled by the practice of Yoga? ",
+      "answer": "When the mind, restrained by the practice of yoga, attains quietude, and when one sees the Self by the Self, they are satisfied in their own Self.",
+      "distance": 0.628402054309845
+    }
+  ]
+}
